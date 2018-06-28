@@ -12,5 +12,5 @@
 			You can upgrade to Stealth here: www.githubgardener.xyz
 
 			Much love, Alex
- 
+  
 			
